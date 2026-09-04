@@ -1,0 +1,12 @@
+# Local safety copies — not part of the site
+*.backup.html
+
+# Vercel CLI link (legacy host, kept only until DNS moves to GitHub Pages)
+.vercel
+
+# macOS
+.DS_Store
+
+# Unused assets kept locally, not shipped
+assets/tv/
+assets/divide-and-conquer.jpg

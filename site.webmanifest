@@ -1,0 +1,13 @@
+{
+  "name": "Eric Martin · Me One",
+  "short_name": "Me One",
+  "description": "Eric Martin / Me One — DJ, producer, Musicated Records.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0c",
+  "theme_color": "#0a0a0c",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
