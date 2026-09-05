@@ -24,7 +24,6 @@
 (function () {
   const GIGS = [
     { date: "2026-08-30", name: "Love The 90s Open Air",    location: "Bristol, UK",            role: "DJ — Technotronic Set" },
-    { date: "2026-09-26", name: "Love The 90s Open Air", location: "Birmingham, UK",         role: "DJ — Technotronic Set" },
     { date: "2026-10-01", name: "D! Club",            location: "Lausanne, Switzerland",  role: "DJ — Technotronic Set" },
     { date: "2026-10-10", name: "Sandy Glade",        location: "Brean, UK",              role: "DJ — Technotronic Set" },
     { date: "2026-10-24", name: "Dance Now", location: "Asunci\u00f3n, Paraguay",    role: "DJ — Technotronic Set" },
